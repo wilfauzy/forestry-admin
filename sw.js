@@ -13,7 +13,7 @@ const CACHE_NAMESPACE = 'main-'
 
 const CACHE = CACHE_NAMESPACE + 'precache-then-runtime';
 const PRECACHE_LIST = [
-  "./",
+  "./#/",
   "//use.fortawesome.com/b6f38602.js",
   "//app.forestry.io/admin/forestry.min.js",
   "//app.forestry.io/admin/main.css"
